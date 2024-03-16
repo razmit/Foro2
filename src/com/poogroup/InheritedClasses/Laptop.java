@@ -8,9 +8,23 @@ import java.util.List;
 public class Laptop implements Equipo {
 
 List<Equipo> laptopList = new ArrayList<>();
+private String fabricante;
+private String modelo;
+private String microprocesador;
+private String memoria;
+private String tarjetaGrafica;
+
+public Laptop(String fabricante, String modelo, String microprocesador, String memoria, String tarjetaGrafica){
+    this.fabricante = fabricante;
+    this.modelo = modelo;
+    this.microprocesador = microprocesador;
+    this.memoria = memoria;
+    this.tarjetaGrafica = tarjetaGrafica;
+}
+
     @Override
     public String getFabricante() {
-        return null;
+        return "Dell";
     }
 
     @Override
