@@ -1,11 +1,29 @@
 
-=
-src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
-Q
-!src/InheritedClasses/Desktop.java,c\3\c329986891b04a317c4cc2dbfb2a8935df8efaca
-P
- src/InheritedClasses/Tablet.java,8\9\8968fb31b615b20c4295a6fac7983f22f3c59fe3
-P
- src/InheritedClasses/Laptop.java,f\9\f9d15d089a95e6b4b9d3d3d9c3b5fab6f5fb375e
+W
+'src/com/poogroup/Interfaces/Equipo.java,a\8\a834e61d56497590184413a584c22293dc15082a
+^
+.src/com/poogroup/Interfaces/LandingWindow.java,0\6\063e96fa92bb5a70e7875ad6de14110737eb651a
+^
+.src/com/poogroup/Interfaces/LandingWindow.form,1\e\1e9b0592c653efc21ce99399dc71c351707aed7c
 J
-src/Interfaces/Equipo.java,f\8\f838a28423087817abdeb4c5501b39a850fff4a7
+src/com/poogroup/Main.java,6\2\622a9d19c571c2b2543f93297a3ad82fad1279ef
+Å
+Q.idea/sonarlint/securityhotspotstore/1/e/1e9b0592c653efc21ce99399dc71c351707aed7c,2\f\2f61653d695678ba3e69f1089968b452a827ece0
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+]
+-src/com/poogroup/InheritedClasses/Laptop.java,c\5\c5b2c79913b525a8f61632cd74a09e6fccb49342
+Å
+Q.idea/sonarlint/securityhotspotstore/6/2/622a9d19c571c2b2543f93297a3ad82fad1279ef,9\3\936205a10a2e1a7f7aa6a24efa9522193961cb6f
+^
+.src/com/poogroup/InheritedClasses/Desktop.java,e\7\e705f2c9219daaf6cdf30202565495b6a8d2ac25
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+]
+-src/com/poogroup/InheritedClasses/Tablet.java,c\2\c233551fe28ab476d3851170211de84ccb057431
+Å
+Q.idea/sonarlint/securityhotspotstore/0/6/063e96fa92bb5a70e7875ad6de14110737eb651a,0\1\01350baa7688407dc3b40b704e8764d98b8c5359
+w
+G.idea/sonarlint/issuestore/1/e/1e9b0592c653efc21ce99399dc71c351707aed7c,9\a\9a870b339499ca5335836a4a938a5548869bb543
+Å
+Q.idea/sonarlint/securityhotspotstore/a/8/a834e61d56497590184413a584c22293dc15082a,a\c\accfc67f667077d6b7f16cab7f0b6816658dfc13
