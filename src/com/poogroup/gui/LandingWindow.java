@@ -1,4 +1,4 @@
-package com.poogroup.Interfaces;
+package com.poogroup.gui;
 
 import javax.swing.*;
 import java.awt.*;
