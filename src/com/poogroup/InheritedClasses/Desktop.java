@@ -2,7 +2,12 @@ package com.poogroup.InheritedClasses;
 
 import com.poogroup.Interfaces.Equipo;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Desktop implements Equipo {
+
+    List<Equipo> desktopList = new ArrayList<>();
 
     @Override
     public String getFabricante() {
