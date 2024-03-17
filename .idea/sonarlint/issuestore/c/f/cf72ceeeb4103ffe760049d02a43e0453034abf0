@@ -1,7 +1,7 @@
 
-n	java:S116	"TRename this field "MainPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¨ÖÞüÿÿÿÿ
-q	java:S116
-"WRename this field "LandingImage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±±Åóþÿÿÿÿ
-L
-java:S1117"7Rename "icon" which hides the field declared at line 8.(ž¯åy
-Q	java:S125"<This block of commented-out lines of code should be removed.(‰ò Ì
+u	java:S116	"TRename this field "MainPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¨ÖÞüÿÿÿÿ8è£©Ïä1
+x	java:S116
+"WRename this field "LandingImage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±±Åóþÿÿÿÿ8è£©Ïä1
+S
+java:S1117"7Rename "icon" which hides the field declared at line 8.(ž¯åy8í£©Ïä1
+X	java:S125"<This block of commented-out lines of code should be removed.(‰ò Ì8î£©Ïä1

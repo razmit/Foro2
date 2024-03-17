@@ -16,7 +16,7 @@ public class LandingWindow extends JFrame {
         MainPanel.setBackground(new Color(51, 73, 153));
 
         setTitle("TODOPC Systems");
-        setDefaultCloseOperation(EXIT_ON_CLOSE);
+        setDefaultCloseOperation(DISPOSE_ON_CLOSE);
         setSize(800,700);
 //        this.setLayout(new java.awt.GridLayout(1,1));
         MainPanel.add(LandingImage, BorderLayout.CENTER);
@@ -24,5 +24,10 @@ public class LandingWindow extends JFrame {
         pack();
         setLocationRelativeTo(null);
         setVisible(true);
+    }
+
+    public LandingWindow(boolean closeWindow){
+        if (closeWindow)
+            this.dispose();
     }
 }
