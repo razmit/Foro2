@@ -7,6 +7,4 @@ public interface Equipo {
     String getMicroprocesador();
     String getMemoria();
     String getTarjetaGrafica();
-    void registrarAsset();
-    void mostrarAssets();
 }

@@ -5,7 +5,7 @@ import java.awt.*;
 
 public class LandingWindow extends JFrame {
 
-    ImageIcon icon = new ImageIcon("C:\\Users\\CommieTaco\\IdeaProjects\\Foro2\\src\\com\\poogroup\\media\\images\\TODOPC-Logo.png");
+    ImageIcon icon = new ImageIcon("C:\\Users\\E095713\\Documents\\Programming\\UDB\\CosasPOO\\Foro2\\src\\com\\poogroup\\media\\images\\TODOPC-Logo.png");
     private JPanel MainPanel = new JPanel(new BorderLayout());
     private JLabel LandingImage = new JLabel(icon);
 

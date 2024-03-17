@@ -46,13 +46,4 @@ public class Tablet implements Equipo {
         return null;
     }
 
-    @Override
-    public void registrarAsset() {
-
-    }
-
-    @Override
-    public void mostrarAssets() {
-
-    }
 }

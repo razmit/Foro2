@@ -1,0 +1,12 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ð‡íèúÿÿÿÿ
+I
+java:S1068".Remove this unused "fabricante" private field.(Ì™‹Åûÿÿÿÿ
+@
+java:S1068"*Remove this unused "modelo" private field.(ˆÙÌå
+I
+java:S1068"3Remove this unused "microprocesador" private field.(û¯Ýú
+F
+java:S1068"+Remove this unused "memoria" private field.(¾‡Œ¹úÿÿÿÿ
+H
+java:S1068"2Remove this unused "tarjetaGrafica" private field.(—¦¹—
